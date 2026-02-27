@@ -22,7 +22,7 @@ const GALLERY_IMAGES = [
   },
   {
     id: 2,
-    src: "/gallery/hero section id.jpg",
+    src: "/gallery/mainpic.jpg",
     alt: "Mountain balcony view",
   },
   // {
