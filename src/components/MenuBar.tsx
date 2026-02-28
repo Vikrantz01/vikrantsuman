@@ -200,7 +200,7 @@ export function MenuBar({
       icon: <Lock className="w-4 h-4" />,
       action: handleLock,
     },
-    { label: "Log Out Sudhanshu...", shortcut: "⇧⌘Q", action: () => {} },
+    { label: "Log Out Vikrant...", shortcut: "⇧⌘Q", action: () => {} },
   ];
 
   const fileMenuItems: MenuItem[] = [
