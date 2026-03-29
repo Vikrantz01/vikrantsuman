@@ -210,8 +210,9 @@ const PROJECTS: Project[] = [
     demo: "https://shobhitagarwal.vercel.app/",
     github: "https://github.com/Vikrantz01/shobhit-Agarwal-prints",
     metrics: [
-      { label: "API", value: "TMDB/YT" },
-      { label: "UI", value: "Responsive" },
+      { label: "Category", value: "T-Shirt Printing" },
+      { label: "UI", value: "Responsive Design" },
+      { label: "Features", value: "Custom Design & Order" },
     ],
     featured: false,
     highlights: [
