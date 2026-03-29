@@ -197,6 +197,32 @@ const PROJECTS: Project[] = [
     gradient: "from-red-600 to-black",
     iconColor: "text-red-600",
   },
+   {
+    id: "Shobhit-Agarwal-Portfolio",
+    name: "Shobhit Agarwal Portfolio",
+    description: "Personal portfolio website showcasing tshirts printing business",
+    longDescription:
+      "A personal portfolio website designed to showcase a t-shirt printing business, featuring a clean and modern design that highlights products, services, and contact information effectively.",
+    image: "/projects/shobhit.png",
+      techStack: ["HTML", "CSS", "JavaScript"],
+    category: "Basic Web",
+    year: "2026",
+    demo: "https://shobhitagarwal.vercel.app/",
+    github: "https://github.com/Vikrantz01/shobhit-Agarwal-prints",
+    metrics: [
+      { label: "API", value: "TMDB/YT" },
+      { label: "UI", value: "Responsive" },
+    ],
+    featured: false,
+    highlights: [
+      "Clean and modern design to showcase t-shirt printing business",
+      "Effective presentation of products, services, and contact information",
+      "Responsive layout for optimal viewing on all devices",
+      "User-friendly navigation to enhance visitor experience",
+    ],
+    gradient: "from-red-600 to-black",
+    iconColor: "text-red-600",
+  },
 ];
 
 const CATEGORIES = [
