@@ -224,6 +224,34 @@ const PROJECTS: Project[] = [
     gradient: "from-red-600 to-black",
     iconColor: "text-red-600",
   },
+   {
+    id: "Venom The: Simbiotic Artificial Intelligence",
+    name: "Venom The: Simbiotic Artificial Intelligence",
+    description: "AI-powered simulation of Venom's symbiotic relationship",
+    longDescription:
+      "An innovative AI project exploring the concept of a symbiotic relationship between a human and a digital entity, inspired by the Venom character from Marvel Comics.",
+    image: "/projects/venom.png",
+    techStack: ["HTML", "CSS", "JavaScript"],
+    category: "Basic Web",
+    year: "2026",
+    // demo: "https://shobhitagarwal.vercel.app/",
+    github: "https://github.com/Vikrantz01/Venom-Ai---HTML-CSS-JS-project",
+    metrics: [
+      { label: "Category", value: "AI Simulation" },
+      { label: "UI", value: "Responsive Design" },
+      { label: "Features", value: "AI Integration" },
+    ],
+    featured: false,
+    highlights: [
+      "Explores the concept of a symbiotic relationship between a human and a digital entity",
+      "Inspired by the Venom character from Marvel Comics",
+      "Demonstrates AI capabilities in simulating complex interactions",
+      "Engages users with an interactive and immersive experience",
+
+    ],
+    gradient: "from-red-600 to-black",
+    iconColor: "text-red-600",
+  },
 ];
 
 const CATEGORIES = [
