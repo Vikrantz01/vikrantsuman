@@ -232,7 +232,7 @@ const PROJECTS: Project[] = [
       "An innovative AI project exploring the concept of a symbiotic relationship between a human and a digital entity, inspired by the Venom character from Marvel Comics.",
     image: "/projects/venom.png",
     techStack: ["HTML", "CSS", "JavaScript"],
-    category: "Basic Web",
+    category: "Featured",
     year: "2026",
     // demo: "https://shobhitagarwal.vercel.app/",
     github: "https://github.com/Vikrantz01/Venom-Ai---HTML-CSS-JS-project",

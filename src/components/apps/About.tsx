@@ -32,7 +32,7 @@ const SOCIAL_LINKS = [
 const STATS = [
   { label: "Projects", value: "20+" },
   { label: "Internships", value: "1" },
-  { label: "SGPA", value: "7.8" },
+  { label: "SGPA", value: "8.2" },
   { label: "Tech Stack", value: "20+" },
 ];
 
@@ -248,7 +248,7 @@ export function About({ isDark }: AboutProps) {
                   <p
                     className={`text-sm ${isDark ? "text-white/40" : "text-gray-500"}`}
                   >
-                    SGPA: 7.8 
+                    SGPA: 8.2 
                   </p>
                 </div>
               </div>
